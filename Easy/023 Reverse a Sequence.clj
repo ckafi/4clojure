@@ -1,1 +1,1 @@
-reduce conj  ()
+reduce conj ()

@@ -1,1 +1,1 @@
-reduce  (fn  [x y]  (inc x)) 0
+reduce (fn [x y] (inc x)) 0

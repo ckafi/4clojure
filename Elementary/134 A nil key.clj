@@ -1,1 +1,1 @@
-#(nil?  (%2 %1 false))
+#(nil? (%2 %1 false))
